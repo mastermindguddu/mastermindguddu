@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mastermindguddu
-- 👀 I’m interested in ... online hacking
-- 🌱 I’m currently learning ...ethical hacking
+- 👀 I’m interested in online hacking
+- 🌱 I’m currently learning ethical hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Follow me on Instagram
 
